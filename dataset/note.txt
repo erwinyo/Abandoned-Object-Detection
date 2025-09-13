@@ -1,0 +1,12 @@
+The dataset for training classification comes from roboflow universe, below all the links to the 
+- https://universe.roboflow.com/robo-sydtj/backpack-640-640-1300images
+- https://universe.roboflow.com/bengisu-ungan/bag-v2e7g
+- https://universe.roboflow.com/15adana/suitcase-vzote
+- https://universe.roboflow.com/david-sujitha/3-class
+- https://universe.roboflow.com/backpack-tracking/backpacks-hphsz
+- https://universe.roboflow.com/bags-nqnvb/bagpersondetect
+- https://universe.roboflow.com/alexander-gros/bags-mepwg
+
+Filter + Combined + Revise the class mapping
+
+The final dataset stored at https://1024terabox.com/s/1Cg9cWs4YDIhlLMvnNm6Klw
