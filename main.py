@@ -96,7 +96,7 @@ POLY_ZONE_VIDEO5 = np.array(
     ]
 )
 
-# Video6 (source: video6-cutted.mp4)
+# Video6 (source: video6-cut.mp4)
 POLY_ZONE_VIDEO6 = np.array(
     [
         [5, 171],
@@ -115,10 +115,10 @@ POLY_ZONE_VIDEO6 = np.array(
     ]
 )
 
-# Video7 (source: video7-cutted.mp4)
+# Video7 (source: video7-cut.mp4)
 POLY_ZONE_VIDEO7 = np.array([[1, 148], [485, 101], [711, 219], [711, 475], [1, 475]])
 
-# Video8 (source: video8-cutted.mp4)
+# Video8 (source: video8-cut.mp4)
 POLY_ZONE_VIDEO8 = np.array(
     [[2, 148], [493, 104], [709, 221], [709, 477], [1, 474], [1, 474]]
 )
@@ -145,10 +145,10 @@ def main():
     video_choosen = "video6"  # You can change this to video1, video2, ..., video10
     poly_used = POLY_ZONE_VIDEO6  # Change this accordingly to the video chosen
     file_path = (
-        "videos//video6-cutted.mp4"  # Change this accordingly to the video chosen
+        "videos//video6-cut.mp4"  # Change this accordingly to the video chosen
     )
     still_bg_path = (
-        "videos//video6-cutted.png"  # Change this accordingly to the video chosen
+        "videos//video6-cut.png"  # Change this accordingly to the video chosen
     )
 
     # Load Video

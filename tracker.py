@@ -8,7 +8,7 @@ from collections import deque
 
 class ObjectTracker:
     def __init__(self):
-        self.model = YOLO("best.pt")
+        self.model = YOLO("cls-model.pt")
         # Store the center positions of the objects
         self.center_points = {}
         # Keep the count of the IDs

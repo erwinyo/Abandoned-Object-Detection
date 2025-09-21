@@ -53,11 +53,11 @@ python main.py
 
 ## Limitation
 1. The algorithm does not adjust for changes in room lighting. This means the background image (ground truth) and the video stream must have the same lighting condition.
-2. **Good result:** Video1, Video2, Video3, Video6-cutted, Video7-cutted, Video8-cutted, Video9, and Video10
+2. **Good result:** Video1, Video2, Video3, Video6-cut, Video7-cut, Video8-cut, Video9, and Video10
 3. **Bad result:** Video4, Video5
 4. **Not included (have dynamic lighting condition)**: Video6, Video7, Video8
 
-***-cutted:** mean that the video has been cutted and trim to the scene that has good lighting condition
+***-cut:** mean that the video has been cut and trim to the scene that has good lighting condition
 
 
 
